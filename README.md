@@ -13,6 +13,11 @@ Users should be able to:
 
 ![](https://github.com/samadvalipour/single-price-grid-component-master/blob/master/design/first.JPG)
 
+### Links
+
+- Solution URL: [here](https://www.frontendmentor.io/solutions/html-css-css-grid-YkTy4CqS7)
+- Live Site URL: [here](https://samadvalipour.github.io/single-price-grid-component-master/)
+
 ### Built with
 
 - Semantic HTML5 markup
