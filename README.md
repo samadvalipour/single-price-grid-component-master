@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/first.jpg)
+![](https://github.com/samadvalipour/single-price-grid-component-master/blob/master/design/first.JPG)
 
 ### Built with
 
